@@ -1,16 +1,16 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designmatters.com" resolutions="1x" timestamp="1502816432019">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designmatters.com" resolutions="1x" timestamp="1502847343740">
   <folder name="css">
-    <file name="site_global.css" crc="302854968"/>
-    <file name="table.css" crc="4211503160" ref="table"/>
-    <file name="index.css" crc="4100007381" ref="index"/>
-    <file name="about.css" crc="495729193" ref="about"/>
-    <file name="process.css" crc="327623961" ref="process"/>
-    <file name="profiles.css" crc="4126104461" ref="profiles"/>
-    <file name="lists.css" crc="133608870" ref="lists"/>
-    <file name="user-experience.css" crc="3954373466" ref="user-experience"/>
-    <file name="ethics.css" crc="267694280" ref="ethics"/>
-    <file name="transparency.css" crc="4064632313" ref="transparency"/>
-    <file name="data.css" crc="436370724" ref="data"/>
+    <file name="site_global.css" crc="379517891"/>
+    <file name="table.css" crc="4166659816" ref="table"/>
+    <file name="index.css" crc="213174442" ref="index"/>
+    <file name="about.css" crc="440821447" ref="about"/>
+    <file name="process.css" crc="4081607878" ref="process"/>
+    <file name="profiles.css" crc="4274081126" ref="profiles"/>
+    <file name="lists.css" crc="3872424561" ref="lists"/>
+    <file name="user-experience.css" crc="4164018175" ref="user-experience"/>
+    <file name="ethics.css" crc="4106719528" ref="ethics"/>
+    <file name="transparency.css" crc="219050354" ref="transparency"/>
+    <file name="data.css" crc="4017734264" ref="data"/>
   </folder>
   <folder name="assets">
     <file name="namescontroller.js" crc="4036614932" seo="true" mt="1501705390000"/>
@@ -83,9 +83,7 @@
       <caption webpage="ethics" alt=""/>
     </file>
     <file name="menu-dots_poster_.png" crc="3941344887" ref="phone>index"/>
-    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>data:phone>table:phone>profiles:phone>lists:phone>user-experience:phone>ethics:phone>transparency:phone>process:phone>about:index:data:process:about:profiles:user-experience:ethics:transparency:table:lists"/>
-    <file name="u11815_states.png" crc="4122417207" ref="phone>index"/>
-    <file name="u11815_states-r.png" crc="4278800458" ref="phone>index"/>
+    <file name="u11815-4-a.png" crc="4122417207" ref="phone>index"/>
     <file name="u11803-4.png" crc="182892816" ref="phone>index"/>
     <file name="u11806-4.png" crc="4227405148" ref="phone>index"/>
     <file name="u11809-4.png" crc="3927295953" ref="phone>index"/>
@@ -109,21 +107,16 @@
     <file name="u11402-6.png" crc="4265226602" ref="phone>index"/>
     <file name="u11397-6.png" crc="492256005" ref="phone>index"/>
     <file name="u11398-6.png" crc="4121172851" ref="phone>index"/>
-    <file name="u11440_states.png" crc="4122417207" ref="phone>data"/>
-    <file name="u11440_states-r.png" crc="4278800458" ref="phone>data"/>
-    <file name="u11434_states.png" crc="182892816" ref="phone>data"/>
-    <file name="u11434_states-r.png" crc="182892816" ref="phone>data"/>
-    <file name="u11436_states.png" crc="3927295953" ref="phone>data"/>
-    <file name="u11436_states-r.png" crc="3927295953" ref="phone>data"/>
-    <file name="u11443_states.png" crc="4048496834" ref="phone>data"/>
-    <file name="u11443_states-r.png" crc="4048496834" ref="phone>data"/>
-    <file name="u11433_states.png" crc="3977759421" ref="phone>data"/>
-    <file name="u11433_states-r.png" crc="3977759421" ref="phone>data"/>
-    <file name="u11432_states.png" crc="175966576" ref="phone>data"/>
-    <file name="u11432_states-r.png" crc="175966576" ref="phone>data"/>
-    <file name="u11435-4-a.png" crc="3896867248" ref="phone>data"/>
-    <file name="u11439_states.png" crc="506715779" ref="phone>data"/>
-    <file name="u11439_states-r.png" crc="506715779" ref="phone>data"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>data:phone>table:phone>profiles:phone>lists:phone>user-experience:phone>ethics:phone>transparency:phone>process:phone>about:index:data:process:about:profiles:user-experience:ethics:transparency:table:lists"/>
+    <file name="u14248_states.png" crc="4122417207" ref="phone>data"/>
+    <file name="u14248_states-r.png" crc="4278800458" ref="phone>data"/>
+    <file name="u14244-4.png" crc="182892816" ref="phone>data"/>
+    <file name="u14243-4.png" crc="4227405148" ref="phone>data"/>
+    <file name="u14246-4.png" crc="3927295953" ref="phone>data"/>
+    <file name="u14237-4.png" crc="3977759421" ref="phone>data"/>
+    <file name="u14245-4.png" crc="175966576" ref="phone>data"/>
+    <file name="u14240-4-a.png" crc="3896867248" ref="phone>data"/>
+    <file name="u14247-4.png" crc="506715779" ref="phone>data"/>
     <file name="white-gears.gif" crc="239563247" seo="true" ref="phone>data:phone>table:phone>profiles:phone>lists:data">
       <caption webpage="data" alt=""/>
       <caption webpage="data" alt=""/>
@@ -225,7 +218,7 @@
     <file name="u12098-4.png" crc="175966576" ref="phone>ethics"/>
     <file name="u12099-4.png" crc="506715779" ref="phone>ethics"/>
     <file name="u13126-14.png" crc="3886098496" ref="phone>ethics"/>
-    <file name="u13127-16.png" crc="3923384700" ref="phone>ethics"/>
+    <file name="u13127-16.png" crc="239817243" ref="phone>ethics"/>
     <file name="u12154_states.png" crc="4122417207" ref="phone>transparency"/>
     <file name="u12154_states-r.png" crc="4278800458" ref="phone>transparency"/>
     <file name="u12156-4.png" crc="182892816" ref="phone>transparency"/>
@@ -386,6 +379,8 @@
     <file name="0042352x220.jpg" crc="3913856797" seo="true" ref="phone>process">
       <caption webpage="process" alt=""/>
     </file>
+    <file name="u13149-5.png" crc="213895086" ref="phone>process"/>
+    <file name="u13368-5.png" crc="3948064118" ref="phone>process"/>
     <file name="loading.gif" crc="3815509949" ref="phone>process:process"/>
     <file name="u13147-79.png" crc="185710856" ref="phone>process"/>
     <file name="u12342_states.png" crc="4122417207" ref="phone>about"/>
@@ -397,30 +392,45 @@
     <file name="u12335-4.png" crc="3862040183" ref="phone>about"/>
     <file name="u12339-4.png" crc="175966576" ref="phone>about"/>
     <file name="u12338-4-a.png" crc="452700610" ref="phone>about"/>
-    <file name="18664264_10209451292139825_6337093030820713715_n.jpg" crc="4180962221" seo="true" ref="phone>about:about">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+    <file name="bitmoji_david.jpg" crc="23094908" seo="true" ref="phone>about:about">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u12606-8.png" crc="4006223714" ref="phone>about"/>
-    <file name="u12658-8.png" crc="4006223714" ref="phone>about"/>
-    <file name="u12671-8.png" crc="4006223714" ref="phone>about"/>
-    <file name="u12684-8.png" crc="4006223714" ref="phone>about"/>
-    <file name="u12697-8.png" crc="4006223714" ref="phone>about"/>
+    <file name="u14597-11.png" crc="3800787622" ref="phone>about"/>
+    <file name="u14665-7.png" crc="4228569975" ref="phone>about"/>
+    <file name="u14671-5.png" crc="3814415730" ref="phone>about"/>
+    <file name="bitmoji_abe.jpg" crc="4121615642" seo="true" ref="phone>about:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u14699-9.png" crc="330094827" ref="phone>about"/>
+    <file name="u14700-4.png" crc="3973304386" ref="phone>about"/>
+    <file name="bitmoji_mustapha.jpg" crc="4248886067" seo="true" ref="phone>about:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bitmoji_eryn.jpg" crc="153725662" seo="true" ref="phone>about:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u14722-15.png" crc="446180073" ref="phone>about"/>
+    <file name="u14746-4.png" crc="4117538637" ref="phone>about"/>
+    <file name="bitmoji_ian-crop-u14791.jpg" crc="4681103" seo="true" ref="phone>about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u14768-9.png" crc="3877485614" ref="phone>about"/>
+    <file name="u14769-3.png" crc="4214850227" ref="phone>about"/>
+    <file name="bitmoji_matt.png" crc="435519332" seo="true" ref="phone>about:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u14799-12.png" crc="3967856635" ref="phone>about"/>
+    <file name="u14819-4.png" crc="3838464517" ref="phone>about"/>
+    <file name="bitmoji_jacklyn-crop-u14852.png" crc="4123850352" seo="true" ref="phone>about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u14828-11.png" crc="3977809032" ref="phone>about"/>
+    <file name="u14843-6.png" crc="86408848" ref="phone>about"/>
     <file name="wddm_black.gif" crc="133638561" seo="true" ref="index:data:process:about:profiles:user-experience:ethics:transparency:table:lists">
       <caption webpage="data" alt=""/>
       <caption webpage="process" alt=""/>
@@ -437,44 +447,44 @@
     <file name="u4291_states.png" crc="4115886104" ref="index"/>
     <file name="u4291_states-r.png" crc="132573083" ref="index"/>
     <file name="u4287_states.png" crc="3898530187" ref="index"/>
-    <file name="u4287_states-r.png" crc="3935906695" ref="index"/>
+    <file name="u4287_states-r.png" crc="376637190" ref="index"/>
     <file name="u4285_states.png" crc="3939727515" ref="index"/>
-    <file name="u4285_states-r.png" crc="3781625113" ref="index"/>
+    <file name="u4285_states-r.png" crc="81262313" ref="index"/>
     <file name="u4286_states.png" crc="374086384" ref="index"/>
-    <file name="u4286_states-r.png" crc="42420719" ref="index"/>
+    <file name="u4286_states-r.png" crc="3901508613" ref="index"/>
     <file name="u4284_states.png" crc="499033736" ref="index"/>
-    <file name="u4284_states-r.png" crc="4162613844" ref="index"/>
+    <file name="u4284_states-r.png" crc="42604309" ref="index"/>
     <file name="u4283_states.png" crc="353789996" ref="index"/>
-    <file name="u4283_states-r.png" crc="306671774" ref="index"/>
+    <file name="u4283_states-r.png" crc="3946735595" ref="index"/>
     <file name="u4351-4.png" crc="144971557" ref="index"/>
-    <file name="u150-6.png" crc="4090592684" ref="index"/>
-    <file name="u153-6.png" crc="3812387950" ref="index"/>
+    <file name="u150-6.png" crc="4212691571" ref="index"/>
+    <file name="u153-6.png" crc="205077722" ref="index"/>
     <file name="u8508_states.png" crc="4076194065" ref="data"/>
     <file name="u8508_states-r.png" crc="269666580" ref="data"/>
     <file name="u8498-4-a.png" crc="132573083" ref="data"/>
     <file name="u8497_states.png" crc="3898530187" ref="data"/>
-    <file name="u8497_states-r.png" crc="3935906695" ref="data"/>
+    <file name="u8497_states-r.png" crc="376637190" ref="data"/>
     <file name="u12798_states.png" crc="3939727515" ref="data"/>
-    <file name="u12798_states-r.png" crc="3781625113" ref="data"/>
+    <file name="u12798_states-r.png" crc="81262313" ref="data"/>
     <file name="u12797_states.png" crc="374086384" ref="data"/>
-    <file name="u12797_states-r.png" crc="42420719" ref="data"/>
+    <file name="u12797_states-r.png" crc="3901508613" ref="data"/>
     <file name="u8499_states.png" crc="499033736" ref="data"/>
-    <file name="u8499_states-r.png" crc="4162613844" ref="data"/>
+    <file name="u8499_states-r.png" crc="42604309" ref="data"/>
     <file name="u8503_states.png" crc="353789996" ref="data"/>
-    <file name="u8503_states-r.png" crc="306671774" ref="data"/>
+    <file name="u8503_states-r.png" crc="3946735595" ref="data"/>
     <file name="u6787-4.png" crc="3988154700" ref="data"/>
-    <file name="u8269_states.png" crc="3839956102" ref="data"/>
-    <file name="u8269_states-r.png" crc="3864272227" ref="data"/>
-    <file name="u8271_states.png" crc="257501725" ref="data"/>
-    <file name="u8271_states-r.png" crc="101713080" ref="data"/>
-    <file name="u8272_states.png" crc="4207601580" ref="data"/>
-    <file name="u8272_states-r.png" crc="27888709" ref="data"/>
+    <file name="u8269_states.png" crc="474995848" ref="data"/>
+    <file name="u8269_states-r.png" crc="390829168" ref="data"/>
+    <file name="u8271_states.png" crc="255081762" ref="data"/>
+    <file name="u8271_states-r.png" crc="386320429" ref="data"/>
+    <file name="u8272_states.png" crc="476614799" ref="data"/>
+    <file name="u8272_states-r.png" crc="3980372093" ref="data"/>
     <file name="u8290_states.png" crc="4076194065" ref="process"/>
-    <file name="u8290_states-r.png" crc="4244813300" ref="process"/>
+    <file name="u8290_states-r.png" crc="269666580" ref="process"/>
     <file name="u8285_states.png" crc="4115886104" ref="process"/>
-    <file name="u8285_states-r.png" crc="4291617819" ref="process"/>
+    <file name="u8285_states-r.png" crc="132573083" ref="process"/>
     <file name="u8282_states.png" crc="3898530187" ref="process"/>
-    <file name="u8282_states-r.png" crc="4215654064" ref="process"/>
+    <file name="u8282_states-r.png" crc="376637190" ref="process"/>
     <file name="menu-bubble-pink-01.svg" crc="3923833105" seo="true" ref="process:about">
       <caption webpage="about" alt=""/>
       <caption webpage="process" alt=""/>
@@ -484,9 +494,9 @@
     <file name="u8288_states.png" crc="353789996" ref="process"/>
     <file name="u8288_states-r.png" crc="3946735595" ref="process"/>
     <file name="u13031_states.png" crc="374086384" ref="process"/>
-    <file name="u13031_states-r.png" crc="42420719" ref="process"/>
+    <file name="u13031_states-r.png" crc="3901508613" ref="process"/>
     <file name="u13032_states.png" crc="3939727515" ref="process"/>
-    <file name="u13032_states-r.png" crc="3781625113" ref="process"/>
+    <file name="u13032_states-r.png" crc="81262313" ref="process"/>
     <file name="u4403-4.png" crc="495110170" ref="process"/>
     <file name="u7564-80.png" crc="123760938" ref="process"/>
     <file name="0001.jpg" crc="3805333501" seo="true" ref="process">
@@ -615,56 +625,88 @@
     <file name="0042.jpg" crc="3999396776" seo="true" ref="process">
       <caption webpage="process" alt=""/>
     </file>
+    <file name="u4703-13.png" crc="35068961" ref="process"/>
+    <file name="u4699-13.png" crc="4279947795" ref="process"/>
     <file name="u8795_states.png" crc="4076194065" ref="about"/>
-    <file name="u8795_states-r.png" crc="4244813300" ref="about"/>
+    <file name="u8795_states-r.png" crc="269666580" ref="about"/>
     <file name="u8805_states.png" crc="4115886104" ref="about"/>
-    <file name="u8805_states-r.png" crc="4291617819" ref="about"/>
+    <file name="u8805_states-r.png" crc="132573083" ref="about"/>
     <file name="u8794_states.png" crc="3898530187" ref="about"/>
-    <file name="u8794_states-r.png" crc="4215654064" ref="about"/>
+    <file name="u8794_states-r.png" crc="376637190" ref="about"/>
     <file name="u8804_states.png" crc="499033736" ref="about"/>
     <file name="u8804_states-r.png" crc="42604309" ref="about"/>
     <file name="u8801-4-a.png" crc="3946735595" ref="about"/>
     <file name="u13040_states.png" crc="374086384" ref="about"/>
-    <file name="u13040_states-r.png" crc="42420719" ref="about"/>
+    <file name="u13040_states-r.png" crc="3901508613" ref="about"/>
     <file name="u13041_states.png" crc="3939727515" ref="about"/>
-    <file name="u13041_states-r.png" crc="3781625113" ref="about"/>
+    <file name="u13041_states-r.png" crc="81262313" ref="about"/>
     <file name="u8788-4.png" crc="3805965836" ref="about"/>
-    <file name="u12457-8.png" crc="266717041" ref="about"/>
-    <file name="u12502-8.png" crc="266717041" ref="about"/>
-    <file name="u12554-8.png" crc="266717041" ref="about"/>
-    <file name="u12463-8.png" crc="266717041" ref="about"/>
-    <file name="u12506-8.png" crc="266717041" ref="about"/>
-    <file name="u12558-8.png" crc="266717041" ref="about"/>
-    <file name="u12476-8.png" crc="266717041" ref="about"/>
-    <file name="u12510-8.png" crc="266717041" ref="about"/>
-    <file name="u12562-8.png" crc="266717041" ref="about"/>
-    <file name="u12489-8.png" crc="266717041" ref="about"/>
-    <file name="u12514-8.png" crc="266717041" ref="about"/>
-    <file name="u12566-8.png" crc="266717041" ref="about"/>
-    <file name="u12879_states.png" crc="4076194065" ref="profiles"/>
-    <file name="u12879_states-r.png" crc="269666580" ref="profiles"/>
-    <file name="u12887_states.png" crc="132573083" ref="profiles"/>
-    <file name="u12887_states-r.png" crc="132573083" ref="profiles"/>
-    <file name="u12890_states.png" crc="3898530187" ref="profiles"/>
-    <file name="u12890_states-r.png" crc="3935906695" ref="profiles"/>
-    <file name="u12880_states.png" crc="3939727515" ref="profiles"/>
-    <file name="u12880_states-r.png" crc="3781625113" ref="profiles"/>
-    <file name="u12886_states.png" crc="374086384" ref="profiles"/>
-    <file name="u12886_states-r.png" crc="42420719" ref="profiles"/>
-    <file name="u12876_states.png" crc="499033736" ref="profiles"/>
-    <file name="u12876_states-r.png" crc="4162613844" ref="profiles"/>
-    <file name="u12885_states.png" crc="353789996" ref="profiles"/>
-    <file name="u12885_states-r.png" crc="306671774" ref="profiles"/>
+    <file name="u12476-11.png" crc="306059242" ref="about"/>
+    <file name="u14647-4.png" crc="3853816061" ref="about"/>
+    <file name="u14331-11.png" crc="3893040514" ref="about"/>
+    <file name="u14653-4.png" crc="286358984" ref="about"/>
+    <file name="u14432-19.png" crc="4136312321" ref="about"/>
+    <file name="u14659-4.png" crc="4205420264" ref="about"/>
+    <file name="u14458-17.png" crc="318332421" ref="about"/>
+    <file name="bitmoji_rory.png" crc="176410103" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u14785-4.png" crc="4205420264" ref="about"/>
+    <file name="u14543-15.png" crc="3769053723" ref="about"/>
+    <file name="bitmoji_jacklyn-crop-u14546.png" crc="78718129" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="bitmoji_alexus.png" crc="506528392" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u14569-17.png" crc="365263242" ref="about"/>
+    <file name="u14344-12.png" crc="4176819557" ref="about"/>
+    <file name="u14650-7.png" crc="238938823" ref="about"/>
+    <file name="bitmoji_aditi.jpg" crc="4085009481" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u14357-18.png" crc="3872944062" ref="about"/>
+    <file name="u14654-5.png" crc="4120240750" ref="about"/>
+    <file name="u14436-18.png" crc="4111859067" ref="about"/>
+    <file name="bitmoji_sicheng.jpg" crc="3762642166" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u14660-5.png" crc="145009654" ref="about"/>
+    <file name="u14462-9.png" crc="157828108" ref="about"/>
+    <file name="bitmoji_ian-crop-u14505.jpg" crc="114448884" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u14786-3.png" crc="4241109513" ref="about"/>
+    <file name="u14545-12.png" crc="27197056" ref="about"/>
+    <file name="u14814-4.png" crc="407446782" ref="about"/>
+    <file name="bitmoji_alex.png" crc="430625837" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u14571-18.png" crc="3930245142" ref="about"/>
     <file name="u6697-4.png" crc="3988154700" ref="profiles"/>
-    <file name="u8013_states.png" crc="3839956102" ref="profiles"/>
-    <file name="u8013_states-r.png" crc="3864272227" ref="profiles"/>
-    <file name="u8015-7-a.png" crc="101713080" ref="profiles"/>
-    <file name="u8016_states.png" crc="4207601580" ref="profiles"/>
-    <file name="u8016_states-r.png" crc="27888709" ref="profiles"/>
+    <file name="u14091_states.png" crc="4076194065" ref="profiles"/>
+    <file name="u14091_states-r.png" crc="269666580" ref="profiles"/>
+    <file name="u14099_states.png" crc="132573083" ref="profiles"/>
+    <file name="u14099_states-r.png" crc="132573083" ref="profiles"/>
+    <file name="u14102_states.png" crc="3898530187" ref="profiles"/>
+    <file name="u14102_states-r.png" crc="376637190" ref="profiles"/>
+    <file name="u14092_states.png" crc="3939727515" ref="profiles"/>
+    <file name="u14092_states-r.png" crc="81262313" ref="profiles"/>
+    <file name="u14098_states.png" crc="374086384" ref="profiles"/>
+    <file name="u14098_states-r.png" crc="3901508613" ref="profiles"/>
+    <file name="u14088_states.png" crc="499033736" ref="profiles"/>
+    <file name="u14088_states-r.png" crc="42604309" ref="profiles"/>
+    <file name="u14097_states.png" crc="353789996" ref="profiles"/>
+    <file name="u14097_states-r.png" crc="3946735595" ref="profiles"/>
+    <file name="u8013_states.png" crc="3962322677" ref="profiles"/>
+    <file name="u8013_states-r.png" crc="241484500" ref="profiles"/>
+    <file name="u8015-7-a.png" crc="4047558941" ref="profiles"/>
+    <file name="u8016_states.png" crc="4009663331" ref="profiles"/>
+    <file name="u8016_states-r.png" crc="4161339561" ref="profiles"/>
     <file name="u8105_states.png" crc="4076194065" ref="user-experience"/>
-    <file name="u8105_states-r.png" crc="4113193034" ref="user-experience"/>
+    <file name="u8105_states-r.png" crc="269666580" ref="user-experience"/>
     <file name="u8095_states.png" crc="4115886104" ref="user-experience"/>
-    <file name="u8095_states-r.png" crc="337005153" ref="user-experience"/>
+    <file name="u8095_states-r.png" crc="132573083" ref="user-experience"/>
     <file name="menu-bubble-blue2-01.svg" crc="3975868803" seo="true" ref="user-experience:ethics:transparency">
       <caption webpage="transparency" alt=""/>
       <caption webpage="user-experience" alt=""/>
@@ -673,120 +715,120 @@
     <file name="menu-bubble-blue2-01_poster_.png" crc="115676463" ref="user-experience"/>
     <file name="u8094-4-a.png" crc="376637190" ref="user-experience"/>
     <file name="u8096_states.png" crc="499033736" ref="user-experience"/>
-    <file name="u8096_states-r.png" crc="4103061706" ref="user-experience"/>
+    <file name="u8096_states-r.png" crc="42604309" ref="user-experience"/>
     <file name="u8100_states.png" crc="353789996" ref="user-experience"/>
-    <file name="u8100_states-r.png" crc="293173616" ref="user-experience"/>
+    <file name="u8100_states-r.png" crc="3946735595" ref="user-experience"/>
     <file name="u13007_states.png" crc="374086384" ref="user-experience"/>
-    <file name="u13007_states-r.png" crc="42420719" ref="user-experience"/>
+    <file name="u13007_states-r.png" crc="3901508613" ref="user-experience"/>
     <file name="u13008_states.png" crc="3939727515" ref="user-experience"/>
-    <file name="u13008_states-r.png" crc="3781625113" ref="user-experience"/>
+    <file name="u13008_states-r.png" crc="81262313" ref="user-experience"/>
     <file name="u7505-4.png" crc="4009991498" ref="user-experience"/>
     <file name="u7517-12.png" crc="4251616452" ref="user-experience"/>
     <file name="u8189_states.png" crc="4076194065" ref="ethics"/>
-    <file name="u8189_states-r.png" crc="4113193034" ref="ethics"/>
+    <file name="u8189_states-r.png" crc="269666580" ref="ethics"/>
     <file name="u8198_states.png" crc="4115886104" ref="ethics"/>
-    <file name="u8198_states-r.png" crc="337005153" ref="ethics"/>
+    <file name="u8198_states-r.png" crc="132573083" ref="ethics"/>
     <file name="u8195_states.png" crc="3898530187" ref="ethics"/>
     <file name="u8195_states-r.png" crc="376637190" ref="ethics"/>
     <file name="u8205_states.png" crc="499033736" ref="ethics"/>
-    <file name="u8205_states-r.png" crc="4103061706" ref="ethics"/>
+    <file name="u8205_states-r.png" crc="42604309" ref="ethics"/>
     <file name="u8204_states.png" crc="353789996" ref="ethics"/>
-    <file name="u8204_states-r.png" crc="293173616" ref="ethics"/>
+    <file name="u8204_states-r.png" crc="3946735595" ref="ethics"/>
     <file name="u13016_states.png" crc="374086384" ref="ethics"/>
-    <file name="u13016_states-r.png" crc="42420719" ref="ethics"/>
+    <file name="u13016_states-r.png" crc="3901508613" ref="ethics"/>
     <file name="u13017-4-a.png" crc="81262313" ref="ethics"/>
     <file name="u8186-4.png" crc="4163309618" ref="ethics"/>
     <file name="u8187-19.png" crc="4110465191" ref="ethics"/>
-    <file name="u13089-16.png" crc="17680523" ref="ethics"/>
+    <file name="u13089-16.png" crc="4117423198" ref="ethics"/>
     <file name="u9416_states.png" crc="4076194065" ref="transparency"/>
-    <file name="u9416_states-r.png" crc="4113193034" ref="transparency"/>
+    <file name="u9416_states-r.png" crc="269666580" ref="transparency"/>
     <file name="u9405_states.png" crc="4115886104" ref="transparency"/>
-    <file name="u9405_states-r.png" crc="337005153" ref="transparency"/>
+    <file name="u9405_states-r.png" crc="132573083" ref="transparency"/>
     <file name="u9410_states.png" crc="3898530187" ref="transparency"/>
     <file name="u9410_states-r.png" crc="376637190" ref="transparency"/>
     <file name="u9409_states.png" crc="499033736" ref="transparency"/>
-    <file name="u9409_states-r.png" crc="4103061706" ref="transparency"/>
+    <file name="u9409_states-r.png" crc="42604309" ref="transparency"/>
     <file name="u9404_states.png" crc="353789996" ref="transparency"/>
-    <file name="u9404_states-r.png" crc="293173616" ref="transparency"/>
+    <file name="u9404_states-r.png" crc="3946735595" ref="transparency"/>
     <file name="u13026_states.png" crc="3939727515" ref="transparency"/>
-    <file name="u13026_states-r.png" crc="3781625113" ref="transparency"/>
+    <file name="u13026_states-r.png" crc="81262313" ref="transparency"/>
     <file name="u13025-4-a.png" crc="3901508613" ref="transparency"/>
     <file name="u9398-4.png" crc="465837334" ref="transparency"/>
     <file name="u9400-14.png" crc="4233411206" ref="transparency"/>
     <file name="u13094-12.png" crc="278101668" ref="transparency"/>
-    <file name="u12812_states.png" crc="4076194065" ref="table"/>
-    <file name="u12812_states-r.png" crc="269666580" ref="table"/>
-    <file name="u12820_states.png" crc="132573083" ref="table"/>
-    <file name="u12820_states-r.png" crc="132573083" ref="table"/>
-    <file name="u12823_states.png" crc="3898530187" ref="table"/>
-    <file name="u12823_states-r.png" crc="3935906695" ref="table"/>
-    <file name="u12813_states.png" crc="3939727515" ref="table"/>
-    <file name="u12813_states-r.png" crc="3781625113" ref="table"/>
-    <file name="u12819_states.png" crc="374086384" ref="table"/>
-    <file name="u12819_states-r.png" crc="42420719" ref="table"/>
-    <file name="u12809_states.png" crc="499033736" ref="table"/>
-    <file name="u12809_states-r.png" crc="4162613844" ref="table"/>
-    <file name="u12818_states.png" crc="353789996" ref="table"/>
-    <file name="u12818_states-r.png" crc="306671774" ref="table"/>
     <file name="u7813-4.png" crc="58929400" ref="table"/>
-    <file name="u8001-7-a.png" crc="3864272227" ref="table"/>
-    <file name="u8003_states.png" crc="257501725" ref="table"/>
-    <file name="u8003_states-r.png" crc="101713080" ref="table"/>
-    <file name="u8004_states.png" crc="4207601580" ref="table"/>
-    <file name="u8004_states-r.png" crc="27888709" ref="table"/>
-    <file name="u12946_states.png" crc="4076194065" ref="lists"/>
-    <file name="u12946_states-r.png" crc="269666580" ref="lists"/>
-    <file name="u12954_states.png" crc="132573083" ref="lists"/>
-    <file name="u12954_states-r.png" crc="132573083" ref="lists"/>
-    <file name="u12957_states.png" crc="3898530187" ref="lists"/>
-    <file name="u12957_states-r.png" crc="3935906695" ref="lists"/>
-    <file name="u12947_states.png" crc="3939727515" ref="lists"/>
-    <file name="u12947_states-r.png" crc="3781625113" ref="lists"/>
-    <file name="u12953_states.png" crc="374086384" ref="lists"/>
-    <file name="u12953_states-r.png" crc="42420719" ref="lists"/>
-    <file name="u12943_states.png" crc="499033736" ref="lists"/>
-    <file name="u12943_states-r.png" crc="4162613844" ref="lists"/>
-    <file name="u12952_states.png" crc="353789996" ref="lists"/>
-    <file name="u12952_states-r.png" crc="306671774" ref="lists"/>
+    <file name="u14024_states.png" crc="4076194065" ref="table"/>
+    <file name="u14024_states-r.png" crc="269666580" ref="table"/>
+    <file name="u14032_states.png" crc="132573083" ref="table"/>
+    <file name="u14032_states-r.png" crc="132573083" ref="table"/>
+    <file name="u14035_states.png" crc="3898530187" ref="table"/>
+    <file name="u14035_states-r.png" crc="376637190" ref="table"/>
+    <file name="u14025_states.png" crc="3939727515" ref="table"/>
+    <file name="u14025_states-r.png" crc="81262313" ref="table"/>
+    <file name="u14031_states.png" crc="374086384" ref="table"/>
+    <file name="u14031_states-r.png" crc="3901508613" ref="table"/>
+    <file name="u14021_states.png" crc="499033736" ref="table"/>
+    <file name="u14021_states-r.png" crc="42604309" ref="table"/>
+    <file name="u14030_states.png" crc="353789996" ref="table"/>
+    <file name="u14030_states-r.png" crc="3946735595" ref="table"/>
+    <file name="u8001-7-a.png" crc="241484500" ref="table"/>
+    <file name="u8003_states.png" crc="135194699" ref="table"/>
+    <file name="u8003_states-r.png" crc="4047558941" ref="table"/>
+    <file name="u8004_states.png" crc="4009663331" ref="table"/>
+    <file name="u8004_states-r.png" crc="4161339561" ref="table"/>
     <file name="u7867-4.png" crc="3988154700" ref="lists"/>
-    <file name="u7968_states.png" crc="3839956102" ref="lists"/>
-    <file name="u7968_states-r.png" crc="3864272227" ref="lists"/>
-    <file name="u7971_states.png" crc="257501725" ref="lists"/>
-    <file name="u7971_states-r.png" crc="101713080" ref="lists"/>
-    <file name="u7976-7-a.png" crc="27888709" ref="lists"/>
+    <file name="u14158_states.png" crc="4076194065" ref="lists"/>
+    <file name="u14158_states-r.png" crc="269666580" ref="lists"/>
+    <file name="u14166_states.png" crc="132573083" ref="lists"/>
+    <file name="u14166_states-r.png" crc="132573083" ref="lists"/>
+    <file name="u14169_states.png" crc="3898530187" ref="lists"/>
+    <file name="u14169_states-r.png" crc="376637190" ref="lists"/>
+    <file name="u14159_states.png" crc="3939727515" ref="lists"/>
+    <file name="u14159_states-r.png" crc="81262313" ref="lists"/>
+    <file name="u14165_states.png" crc="374086384" ref="lists"/>
+    <file name="u14165_states-r.png" crc="3901508613" ref="lists"/>
+    <file name="u14155_states.png" crc="499033736" ref="lists"/>
+    <file name="u14155_states-r.png" crc="42604309" ref="lists"/>
+    <file name="u14164_states.png" crc="353789996" ref="lists"/>
+    <file name="u14164_states-r.png" crc="3946735595" ref="lists"/>
+    <file name="u7968_states.png" crc="3962322677" ref="lists"/>
+    <file name="u7968_states-r.png" crc="241484500" ref="lists"/>
+    <file name="u7971_states.png" crc="135194699" ref="lists"/>
+    <file name="u7971_states-r.png" crc="4047558941" ref="lists"/>
+    <file name="u7976-7-a.png" crc="4161339561" ref="lists"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="data.css" crc="4039819411" ref="phone>data"/>
-      <file name="about.css" crc="3811731703" ref="phone>about"/>
+      <file name="data.css" crc="3784418080" ref="phone>data"/>
+      <file name="about.css" crc="3799148973" ref="phone>about"/>
       <file name="table.css" crc="228823039" ref="phone>table"/>
-      <file name="process.css" crc="450567969" ref="phone>process"/>
+      <file name="process.css" crc="395973469" ref="phone>process"/>
       <file name="profiles.css" crc="55276336" ref="phone>profiles"/>
       <file name="lists.css" crc="430270515" ref="phone>lists"/>
-      <file name="user-experience.css" crc="3831686754" ref="phone>user-experience"/>
-      <file name="ethics.css" crc="367526576" ref="phone>ethics"/>
-      <file name="transparency.css" crc="4038143745" ref="phone>transparency"/>
-      <file name="index.css" crc="3814362482" ref="phone>index"/>
+      <file name="user-experience.css" crc="39029059" ref="phone>user-experience"/>
+      <file name="ethics.css" crc="11835359" ref="phone>ethics"/>
+      <file name="transparency.css" crc="371753516" ref="phone>transparency"/>
+      <file name="index.css" crc="305117725" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="150307117" seo="true" mt="1502814427748" redirect="true"/>
-    <file name="data.html" crc="3941642334" seo="true" mt="1502814772516" redirect="true"/>
-    <file name="table.html" crc="152189884" seo="true" mt="1502814801356" redirect="true"/>
-    <file name="profiles.html" crc="393283175" seo="true" mt="1502814824924" redirect="true"/>
-    <file name="lists.html" crc="517693495" seo="true" mt="1502814842648" redirect="true"/>
-    <file name="user-experience.html" crc="296890726" seo="true" mt="1502815000601" redirect="true"/>
-    <file name="ethics.html" crc="3806792202" seo="true" mt="1502815507746" redirect="true"/>
-    <file name="transparency.html" crc="338665295" seo="true" mt="1502815729146" redirect="true"/>
-    <file name="process.html" crc="4017205051" seo="true" mt="1502816254178" redirect="true"/>
-    <file name="about.html" crc="4224243284" seo="true" mt="1502758035288" redirect="true"/>
+    <file name="index.html" crc="4014931770" seo="true" mt="1502838669750" redirect="true"/>
+    <file name="data.html" crc="50525984" seo="true" mt="1502838675291" redirect="true"/>
+    <file name="table.html" crc="4282748859" seo="true" mt="1502838685525" redirect="true"/>
+    <file name="profiles.html" crc="4020829362" seo="true" mt="1502838735740" redirect="true"/>
+    <file name="lists.html" crc="4173741816" seo="true" mt="1502838743183" redirect="true"/>
+    <file name="user-experience.html" crc="4057326135" seo="true" mt="1502838771342" redirect="true"/>
+    <file name="ethics.html" crc="4013102063" seo="true" mt="1502838783023" redirect="true"/>
+    <file name="transparency.html" crc="4186564585" seo="true" mt="1502838797382" redirect="true"/>
+    <file name="process.html" crc="181351202" seo="true" mt="1502838810998" redirect="true"/>
+    <file name="about.html" crc="4014213815" seo="true" mt="1502847223286" redirect="true"/>
   </folder>
-  <file name="index.html" crc="158523258" seo="true" mt="1502814266380" redirect="true"/>
-  <file name="data.html" crc="4294334362" seo="true" mt="1502808842809" redirect="true"/>
-  <file name="process.html" crc="313813516" seo="true" mt="1502814167441" redirect="true"/>
-  <file name="about.html" crc="293452025" seo="true" mt="1502808909697" redirect="true"/>
-  <file name="profiles.html" crc="3998930018" seo="true" mt="1502808871715" redirect="true"/>
-  <file name="user-experience.html" crc="465567106" seo="true" mt="1502814937755" redirect="true"/>
-  <file name="ethics.html" crc="524019885" seo="true" mt="1502815518013" redirect="true"/>
-  <file name="transparency.html" crc="4077743890" seo="true" mt="1502813925805" redirect="true"/>
-  <file name="table.html" crc="93766104" seo="true" mt="1502808866199" redirect="true"/>
-  <file name="lists.html" crc="499380229" seo="true" mt="1502808875954" redirect="true"/>
+  <file name="index.html" crc="3883151758" seo="true" mt="1502831687400" redirect="true"/>
+  <file name="data.html" crc="4049689264" seo="true" mt="1502831789500" redirect="true"/>
+  <file name="process.html" crc="4037936787" seo="true" mt="1502831551551" redirect="true"/>
+  <file name="about.html" crc="273562808" seo="true" mt="1502847279943" redirect="true"/>
+  <file name="profiles.html" crc="533004398" seo="true" mt="1502831978288" redirect="true"/>
+  <file name="user-experience.html" crc="4249131262" seo="true" mt="1502831411529" redirect="true"/>
+  <file name="ethics.html" crc="3855974019" seo="true" mt="1502831465974" redirect="true"/>
+  <file name="transparency.html" crc="491684089" seo="true" mt="1502831502473" redirect="true"/>
+  <file name="table.html" crc="411223249" seo="true" mt="1502831846680" redirect="true"/>
+  <file name="lists.html" crc="451064244" seo="true" mt="1502838399627" redirect="true"/>
 </manifest>
