@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designmatters.com" resolutions="1x" timestamp="1502903625662">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designmatters.com" resolutions="1x" timestamp="1502903723078">
   <folder name="css">
     <file name="site_global.css" crc="283746308"/>
     <file name="user-experience.css" crc="4164018175" ref="user-experience"/>
@@ -35,27 +35,27 @@
       <caption webpage="data" alt=""/>
       <caption webpage="transparency" alt=""/>
       <caption webpage="transparency" alt=""/>
-      <caption webpage="process" alt=""/>
-      <caption webpage="process" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="lists" alt=""/>
-      <caption webpage="lists" alt=""/>
-      <caption webpage="lists" alt=""/>
-      <caption webpage="lists" alt=""/>
-      <caption webpage="lists" alt=""/>
-      <caption webpage="profiles" alt=""/>
-      <caption webpage="profiles" alt=""/>
       <caption webpage="ethics" alt=""/>
       <caption webpage="ethics" alt=""/>
+      <caption webpage="user-experience" alt=""/>
+      <caption webpage="user-experience" alt=""/>
+      <caption webpage="user-experience" alt=""/>
+      <caption webpage="user-experience" alt=""/>
+      <caption webpage="user-experience" alt=""/>
+      <caption webpage="lists" alt=""/>
+      <caption webpage="lists" alt=""/>
+      <caption webpage="lists" alt=""/>
+      <caption webpage="lists" alt=""/>
+      <caption webpage="lists" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="profiles" alt=""/>
+      <caption webpage="profiles" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="process" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="table" alt=""/>
@@ -64,7 +64,7 @@
       <caption webpage="table" alt=""/>
       <caption webpage="table" alt=""/>
     </file>
-    <file name="menu-dots_poster_.png" crc="3941344887" ref="phone>index:phone>data:phone>process"/>
+    <file name="menu-dots_poster_.png" crc="3941344887" ref="phone>index:phone>data:phone>process:phone>about"/>
     <file name="u11815-4-a.png" crc="4122417207" ref="phone>index"/>
     <file name="u11803-4.png" crc="182892816" ref="phone>index"/>
     <file name="u11806-4.png" crc="4227405148" ref="phone>index"/>
@@ -225,7 +225,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="process" alt=""/>
     </file>
-    <file name="menu-bubble-pink-moboile-01_poster_.png" crc="3907945969" ref="phone>process"/>
+    <file name="menu-bubble-pink-moboile-01_poster_.png" crc="3907945969" ref="phone>process:phone>about"/>
     <file name="u12271-4-a.png" crc="4205003861" ref="phone>process"/>
     <file name="u12279-4.png" crc="3862040183" ref="phone>process"/>
     <file name="u12269-4.png" crc="506715779" ref="phone>process"/>
@@ -391,7 +391,7 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="u15177-10.png" crc="137941197" ref="phone>about"/>
-    <file name="u15180-4.png" crc="3790038651" ref="phone>about"/>
+    <file name="u15180-4.png" crc="3829941106" ref="phone>about"/>
     <file name="bitmoji_rory.png" crc="176410103" seo="true" ref="phone>about:about">
       <caption webpage="about" alt=""/>
     </file>
@@ -834,7 +834,7 @@
       <file name="transparency.css" crc="4157162891" ref="phone>transparency"/>
       <file name="profiles.css" crc="3786234699" ref="phone>profiles"/>
       <file name="ethics.css" crc="226361225" ref="phone>ethics"/>
-      <file name="about.css" crc="3860872153" ref="phone>about"/>
+      <file name="about.css" crc="4183223963" ref="phone>about"/>
       <file name="user-experience.css" crc="39029059" ref="phone>user-experience"/>
       <file name="table.css" crc="228823039" ref="phone>table"/>
       <file name="data.css" crc="308301233" ref="phone>data"/>
@@ -851,7 +851,7 @@
     <file name="ethics.html" crc="396710216" seo="true" mt="1502903209034" redirect="true"/>
     <file name="transparency.html" crc="4270718423" seo="true" mt="1502903218701" redirect="true"/>
     <file name="process.html" crc="349383536" seo="true" mt="1502903597591" redirect="true"/>
-    <file name="about.html" crc="4012146746" seo="true" mt="1502903580587" redirect="true"/>
+    <file name="about.html" crc="308943022" seo="true" mt="1502903705270" redirect="true"/>
   </folder>
   <file name="index.html" crc="4250078455" seo="true" mt="1502831687400" redirect="true"/>
   <file name="data.html" crc="3922964715" seo="true" mt="1502831789500" redirect="true"/>
