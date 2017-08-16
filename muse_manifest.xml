@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designmatters.com" resolutions="1x" timestamp="1502903342185">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designmatters.com" resolutions="1x" timestamp="1502903625662">
   <folder name="css">
     <file name="site_global.css" crc="283746308"/>
     <file name="user-experience.css" crc="4164018175" ref="user-experience"/>
@@ -35,30 +35,27 @@
       <caption webpage="data" alt=""/>
       <caption webpage="transparency" alt=""/>
       <caption webpage="transparency" alt=""/>
-      <caption webpage="ethics" alt=""/>
-      <caption webpage="ethics" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="lists" alt=""/>
-      <caption webpage="lists" alt=""/>
-      <caption webpage="lists" alt=""/>
-      <caption webpage="lists" alt=""/>
-      <caption webpage="lists" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="profiles" alt=""/>
-      <caption webpage="profiles" alt=""/>
       <caption webpage="process" alt=""/>
       <caption webpage="process" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="user-experience" alt=""/>
+      <caption webpage="user-experience" alt=""/>
+      <caption webpage="user-experience" alt=""/>
+      <caption webpage="user-experience" alt=""/>
+      <caption webpage="user-experience" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lists" alt=""/>
+      <caption webpage="lists" alt=""/>
+      <caption webpage="lists" alt=""/>
+      <caption webpage="lists" alt=""/>
+      <caption webpage="lists" alt=""/>
+      <caption webpage="profiles" alt=""/>
+      <caption webpage="profiles" alt=""/>
+      <caption webpage="ethics" alt=""/>
+      <caption webpage="ethics" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="table" alt=""/>
@@ -67,7 +64,7 @@
       <caption webpage="table" alt=""/>
       <caption webpage="table" alt=""/>
     </file>
-    <file name="menu-dots_poster_.png" crc="3941344887" ref="phone>index:phone>data"/>
+    <file name="menu-dots_poster_.png" crc="3941344887" ref="phone>index:phone>data:phone>process"/>
     <file name="u11815-4-a.png" crc="4122417207" ref="phone>index"/>
     <file name="u11803-4.png" crc="182892816" ref="phone>index"/>
     <file name="u11806-4.png" crc="4227405148" ref="phone>index"/>
@@ -371,53 +368,46 @@
     <file name="u12335-4.png" crc="3862040183" ref="phone>about"/>
     <file name="u12339-4.png" crc="175966576" ref="phone>about"/>
     <file name="u12338-4-a.png" crc="452700610" ref="phone>about"/>
-    <file name="u15209-3.png" crc="454968329" ref="phone>about"/>
+    <file name="u15209-3.png" crc="11924509" ref="phone>about"/>
     <file name="u15120-3.png" crc="454968329" ref="phone>about"/>
     <file name="u15125-3.png" crc="454968329" ref="phone>about"/>
     <file name="u15165-3.png" crc="454968329" ref="phone>about"/>
     <file name="u15131-3.png" crc="454968329" ref="phone>about"/>
-    <file name="u15157-4.png" crc="440855927" ref="phone>about"/>
+    <file name="u15157-4.png" crc="454968329" ref="phone>about"/>
     <file name="u15167-3.png" crc="454968329" ref="phone>about"/>
     <file name="u15198-3.png" crc="454968329" ref="phone>about"/>
     <file name="u15146-3.png" crc="454968329" ref="phone>about"/>
     <file name="bitmoji_alex.png" crc="430625837" seo="true" ref="phone>about:about">
-      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="u15172-6.png" crc="449970798" ref="phone>about"/>
     <file name="u15175-4.png" crc="278006207" ref="phone>about"/>
     <file name="bitmoji_aditi.jpg" crc="4085009481" seo="true" ref="phone>about:about">
       <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="u15213-8.png" crc="4232578331" ref="phone>about"/>
     <file name="u15216-5.png" crc="92310377" ref="phone>about"/>
     <file name="bitmoji_alexus.png" crc="506528392" seo="true" ref="phone>about:about">
-      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="u15177-10.png" crc="137941197" ref="phone>about"/>
     <file name="u15180-4.png" crc="3790038651" ref="phone>about"/>
     <file name="bitmoji_rory.png" crc="176410103" seo="true" ref="phone>about:about">
       <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="u15153-5.png" crc="4046420585" ref="phone>about"/>
     <file name="u15152-3.png" crc="4201139713" ref="phone>about"/>
     <file name="bitmoji_melika.jpg" crc="4131013149" seo="true" ref="phone>about:about">
-      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="u15201-10.png" crc="3803914119" ref="phone>about"/>
     <file name="u15202-4.png" crc="3930618172" ref="phone>about"/>
     <file name="bitmoji_michael.jpg" crc="4181181844" seo="true" ref="phone>about:about">
       <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="u15189-10.png" crc="4219263750" ref="phone>about"/>
     <file name="u15191-4.png" crc="520043490" ref="phone>about"/>
     <file name="bitmoji_eryn.jpg" crc="153725662" seo="true" ref="phone>about:about">
-      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="u15139-14.png" crc="3933047359" ref="phone>about"/>
@@ -427,31 +417,27 @@
     </file>
     <file name="u15185-10.png" crc="360375098" ref="phone>about"/>
     <file name="u15183-4.png" crc="394361344" ref="phone>about"/>
-    <file name="bitmoji_maria-crop-u15207.jpg" crc="406772886" seo="true" ref="phone>about">
+    <file name="bitmoji_maria-crop-u15207.jpg" crc="386013992" seo="true" ref="phone>about">
       <caption webpage="about" alt=""/>
     </file>
     <file name="u15210-10.png" crc="281410779" ref="phone>about"/>
     <file name="u15211-4.png" crc="280168295" ref="phone>about"/>
     <file name="bitmoji_abe.jpg" crc="4121615642" seo="true" ref="phone>about:about">
       <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="u15121-10.png" crc="102915127" ref="phone>about"/>
     <file name="u15119-4.png" crc="4053041044" ref="phone>about"/>
     <file name="bitmoji_david.jpg" crc="23094908" seo="true" ref="phone>about:about">
-      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="u15127-10.png" crc="4189296683" ref="phone>about"/>
     <file name="u15126-7.png" crc="195753437" ref="phone>about"/>
     <file name="bitmoji_matt.png" crc="435519332" seo="true" ref="phone>about:about">
       <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="u15161-12.png" crc="258924440" ref="phone>about"/>
     <file name="u15164-4.png" crc="115845655" ref="phone>about"/>
     <file name="bitmoji_mustapha.jpg" crc="4248886067" seo="true" ref="phone>about:about">
-      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="u15132-10.png" crc="165197840" ref="phone>about"/>
@@ -462,12 +448,10 @@
     <file name="u15168-4.png" crc="289260455" ref="phone>about"/>
     <file name="bitmoji_anyuan.jpg" crc="3770981808" seo="true" ref="phone>about:about">
       <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="u15199-10.png" crc="118243178" ref="phone>about"/>
     <file name="u15195-4.png" crc="309767605" ref="phone>about"/>
     <file name="bitmoji_sicheng.jpg" crc="3762642166" seo="true" ref="phone>about:about">
-      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="u15143-8.png" crc="3965282682" ref="phone>about"/>
@@ -840,10 +824,8 @@
     <file name="u7976-7-a.png" crc="4161339561" ref="lists"/>
     <file name="bitmoji_ian.jpg" crc="4218899086" seo="true" ref="phone>about:about">
       <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="bitmoji_wendy.jpg" crc="123391284" seo="true" ref="phone>about:about">
-      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
   </folder>
@@ -852,13 +834,13 @@
       <file name="transparency.css" crc="4157162891" ref="phone>transparency"/>
       <file name="profiles.css" crc="3786234699" ref="phone>profiles"/>
       <file name="ethics.css" crc="226361225" ref="phone>ethics"/>
-      <file name="about.css" crc="3800715506" ref="phone>about"/>
+      <file name="about.css" crc="3860872153" ref="phone>about"/>
       <file name="user-experience.css" crc="39029059" ref="phone>user-experience"/>
       <file name="table.css" crc="228823039" ref="phone>table"/>
       <file name="data.css" crc="308301233" ref="phone>data"/>
       <file name="index.css" crc="305117725" ref="phone>index"/>
       <file name="lists.css" crc="430270515" ref="phone>lists"/>
-      <file name="process.css" crc="4065529761" ref="phone>process"/>
+      <file name="process.css" crc="220112579" ref="phone>process"/>
     </folder>
     <file name="index.html" crc="512286746" seo="true" mt="1502838669750" redirect="true"/>
     <file name="data.html" crc="432934092" seo="true" mt="1502903159331" redirect="true"/>
@@ -868,8 +850,8 @@
     <file name="user-experience.html" crc="4170737775" seo="true" mt="1502838771342" redirect="true"/>
     <file name="ethics.html" crc="396710216" seo="true" mt="1502903209034" redirect="true"/>
     <file name="transparency.html" crc="4270718423" seo="true" mt="1502903218701" redirect="true"/>
-    <file name="process.html" crc="3989274149" seo="true" mt="1502903230176" redirect="true"/>
-    <file name="about.html" crc="189133647" seo="true" mt="1502903129360" redirect="true"/>
+    <file name="process.html" crc="349383536" seo="true" mt="1502903597591" redirect="true"/>
+    <file name="about.html" crc="4012146746" seo="true" mt="1502903580587" redirect="true"/>
   </folder>
   <file name="index.html" crc="4250078455" seo="true" mt="1502831687400" redirect="true"/>
   <file name="data.html" crc="3922964715" seo="true" mt="1502831789500" redirect="true"/>
