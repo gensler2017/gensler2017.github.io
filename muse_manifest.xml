@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designmatters.com" resolutions="1x" timestamp="1502988825409">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designmatters.com" resolutions="1x" timestamp="1502995445325">
   <folder name="css">
     <file name="site_global.css" crc="283746308"/>
     <file name="user-experience.css" crc="4164018175" ref="user-experience"/>
     <file name="profiles.css" crc="151654928" ref="profiles"/>
     <file name="table.css" crc="275208886" ref="table"/>
-    <file name="index.css" crc="370865704" ref="index"/>
+    <file name="index.css" crc="468730797" ref="index"/>
     <file name="lists.css" crc="3852637148" ref="lists"/>
     <file name="ethics.css" crc="386861257" ref="ethics"/>
     <file name="process.css" crc="4210215918" ref="process"/>
@@ -34,15 +34,9 @@
       <caption webpage="data" alt=""/>
       <caption webpage="data" alt=""/>
       <caption webpage="data" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="transparency" alt=""/>
-      <caption webpage="transparency" alt=""/>
-      <caption webpage="transparency" alt=""/>
-      <caption webpage="ethics" alt=""/>
-      <caption webpage="ethics" alt=""/>
-      <caption webpage="ethics" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="table" alt=""/>
       <caption webpage="table" alt=""/>
       <caption webpage="table" alt=""/>
@@ -52,30 +46,34 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="transparency" alt=""/>
+      <caption webpage="transparency" alt=""/>
+      <caption webpage="transparency" alt=""/>
       <caption webpage="process" alt=""/>
       <caption webpage="process" alt=""/>
       <caption webpage="process" alt=""/>
       <caption webpage="profiles" alt=""/>
       <caption webpage="profiles" alt=""/>
       <caption webpage="profiles" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="ethics" alt=""/>
+      <caption webpage="ethics" alt=""/>
+      <caption webpage="ethics" alt=""/>
+      <caption webpage="user-experience" alt=""/>
+      <caption webpage="user-experience" alt=""/>
+      <caption webpage="user-experience" alt=""/>
     </file>
-    <file name="menu-dots_poster_.png" crc="3941344887" ref="phone>index:phone>about"/>
+    <file name="menu-dots_poster_.png" crc="3941344887" ref="phone>index:phone>about:index"/>
     <file name="u11803-4.png" crc="182892816" ref="phone>index"/>
     <file name="u11806-4.png" crc="4227405148" ref="phone>index"/>
     <file name="u11809-4.png" crc="3927295953" ref="phone>index"/>
     <file name="menu-bubble-yellow.svg" crc="3998171076" seo="true" ref="phone>index:phone>data:phone>table:phone>profiles:phone>lists:index:data:profiles:table:lists">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="data" alt=""/>
       <caption webpage="lists" alt=""/>
       <caption webpage="profiles" alt=""/>
       <caption webpage="table" alt=""/>
     </file>
-    <file name="menu-bubble-yellow_poster_.png" crc="4161071225" ref="phone>index"/>
+    <file name="menu-bubble-yellow_poster_.png" crc="4161071225" ref="phone>index:index"/>
     <file name="u11816-4-a.png" crc="4008756919" ref="phone>index"/>
     <file name="u11808-4.png" crc="3862040183" ref="phone>index"/>
     <file name="u11807-4.png" crc="175966576" ref="phone>index"/>
@@ -430,15 +428,15 @@
     <file name="u15147-5.png" crc="454680529" ref="phone>about"/>
     <file name="wddm_black.gif" crc="133638561" seo="true" ref="index:data:process:about:profiles:user-experience:ethics:transparency:table:lists">
       <caption webpage="data" alt=""/>
-      <caption webpage="user-experience" alt=""/>
-      <caption webpage="transparency" alt=""/>
-      <caption webpage="ethics" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="table" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="lists" alt=""/>
+      <caption webpage="transparency" alt=""/>
       <caption webpage="process" alt=""/>
       <caption webpage="profiles" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="ethics" alt=""/>
+      <caption webpage="user-experience" alt=""/>
     </file>
     <file name="u4288-4-a.png" crc="269666580" ref="index"/>
     <file name="u4291_states.png" crc="4115886104" ref="index"/>
@@ -453,7 +451,6 @@
     <file name="u4284_states-r.png" crc="42604309" ref="index"/>
     <file name="u4283_states.png" crc="353789996" ref="index"/>
     <file name="u4283_states-r.png" crc="3946735595" ref="index"/>
-    <file name="u4351-4.png" crc="144971557" ref="index"/>
     <file name="u150-6.png" crc="4212691571" ref="index"/>
     <file name="u153-6.png" crc="205077722" ref="index"/>
     <file name="u8508_states.png" crc="4076194065" ref="data"/>
@@ -817,6 +814,7 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="u15735-4.png" crc="3809603606" ref="phone>index"/>
+    <file name="u4351-5.png" crc="535325098" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -842,7 +840,7 @@
     <file name="process.html" crc="9794120" seo="true" mt="1502915102288" redirect="true"/>
     <file name="about.html" crc="344757468" seo="true" mt="1502979735396" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3933851670" seo="true" mt="1502988623889" redirect="true"/>
+  <file name="index.html" crc="118954998" seo="true" mt="1502995429970" redirect="true"/>
   <file name="data.html" crc="3922964715" seo="true" mt="1502988623889" redirect="true"/>
   <file name="process.html" crc="4082653447" seo="true" mt="1502988623889" redirect="true"/>
   <file name="about.html" crc="3941482854" seo="true" mt="1502988623889" redirect="true"/>
