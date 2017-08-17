@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://designmatters.com/index.html</loc>
-    <lastmod>2017-08-16</lastmod>
+    <lastmod>2017-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://designmatters.com/phone/index.html"/>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>http://designmatters.com/about.html</loc>
-    <lastmod>2017-08-16</lastmod>
+    <lastmod>2017-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://designmatters.com/phone/about.html"/>
@@ -80,7 +80,7 @@
       <image:loc>http://designmatters.com/images/bitmoji_wendy.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://designmatters.com/images/bitmoji_aditi.png</image:loc>
+      <image:loc>http://designmatters.com/images/bitmoji_aditi.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -362,8 +362,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://designmatters.com/assets/musepen_mobile_dropdown_menu.mulib</loc>
-    <lastmod>2017-08-14</lastmod>
+    <loc>http://designmatters.com/assets/intern-research-book-web-pdf.pdf</loc>
+    <lastmod>2017-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
