@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designmatters.com" resolutions="1x" timestamp="1502995445325">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designmatters.com" resolutions="1x" timestamp="1502996020687">
   <folder name="css">
     <file name="site_global.css" crc="283746308"/>
     <file name="user-experience.css" crc="4164018175" ref="user-experience"/>
     <file name="profiles.css" crc="151654928" ref="profiles"/>
     <file name="table.css" crc="275208886" ref="table"/>
-    <file name="index.css" crc="468730797" ref="index"/>
+    <file name="index.css" crc="370865704" ref="index"/>
     <file name="lists.css" crc="3852637148" ref="lists"/>
     <file name="ethics.css" crc="386861257" ref="ethics"/>
     <file name="process.css" crc="4210215918" ref="process"/>
@@ -814,7 +814,7 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="u15735-4.png" crc="3809603606" ref="phone>index"/>
-    <file name="u4351-5.png" crc="535325098" ref="index"/>
+    <file name="u4351-4.png" crc="144971557" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -840,7 +840,7 @@
     <file name="process.html" crc="9794120" seo="true" mt="1502915102288" redirect="true"/>
     <file name="about.html" crc="344757468" seo="true" mt="1502979735396" redirect="true"/>
   </folder>
-  <file name="index.html" crc="118954998" seo="true" mt="1502995429970" redirect="true"/>
+  <file name="index.html" crc="3933851670" seo="true" mt="1502988623889" redirect="true"/>
   <file name="data.html" crc="3922964715" seo="true" mt="1502988623889" redirect="true"/>
   <file name="process.html" crc="4082653447" seo="true" mt="1502988623889" redirect="true"/>
   <file name="about.html" crc="3941482854" seo="true" mt="1502988623889" redirect="true"/>
